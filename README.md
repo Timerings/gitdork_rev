@@ -50,7 +50,7 @@ Usage of gitdork_rev:
 gitdork_rev -gd Dorks/smalldorks.txt -nws 20 -target xxx.com -tf tokenFile/tf.txt -ew 3
 ```
 
-![image-20241121194232186](.\README.assets\image-20241121194232186.png)
+![image-20241121194232186](./README.assets/image-20241121194232186.png)
 
 ## 安装
 
