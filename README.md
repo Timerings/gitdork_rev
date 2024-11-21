@@ -57,6 +57,7 @@ gitdork_rev -gd Dorks/smalldorks.txt -nws 20 -target xxx.com -tf tokenFile/tf.tx
 ### 自己编译
 
 ```shell
+git clone git clone https://github.com/Timerings/gitdork_rev.git
 cd gitdor_rev
 bash build.sh
 ```
@@ -64,6 +65,7 @@ bash build.sh
 ### 现成使用
 
 ```shell
+git clone git clone https://github.com/Timerings/gitdork_rev.git
 cd gitdor_rev/release
 ./gitdor_rev_amd_linux
 ```
