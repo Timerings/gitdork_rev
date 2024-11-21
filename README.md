@@ -1,6 +1,6 @@
 ## 介绍
 
-`gitdork_rev`是一款基于GO的自动调用github api收集敏感信息的工具，改编自 [gitdorks_go](https://github.com/obheda12/GitDorker)
+`gitdork_rev`是一款基于GO的自动调用github api收集敏感信息的工具，改编自 [gitdorks_go](https://github.com/damit5/gitdorks_go)
 
 由于原版无法检索到详细的信息，所以我这里增加了检索至目标文档url功能，增加了输出结果分类保存功能
 
